@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "99568889258",
+    "project_id": "harshitapp-44e18",
+    "storage_bucket": "harshitapp-44e18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99568889258:android:47da70d09451edf4438fd3",
+        "android_client_info": {
+          "package_name": "com.example.practice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHmGB3O8HZENHyWuipDDZSRM5h3zkIB-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
